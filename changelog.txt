@@ -1,0 +1,12 @@
+--- Novedades al 25/10/2016 -------------------------------------
+
+A realizar:
+
+* Trabajar el proyecto a 30fps.
+* Referenciar todos los elementos en la escena, en todas las escenas (incluido el terreno mismo).
+* Cambiarle las texturas a los árboles desde los assets por las de foil1.jpg y foilFar1.jpg.
+* Columna del esqueleto de Fellini: Revisar esqueleto con Nicolás el Martes 1/11.
+* Terreno: Cambiar las texturas del terreno principal.
+* UV General: Revisar para todos los personajes.
+* Pelo de Enriqueta.
+* Ir animando las camaras, animación básica de los personajes.
